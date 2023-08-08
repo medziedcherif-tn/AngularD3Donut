@@ -1,0 +1,10 @@
+.donut-chart {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+  }
+  
+  .donut-chart svg {
+    display: block;
+    margin: 0 auto;
+  }
