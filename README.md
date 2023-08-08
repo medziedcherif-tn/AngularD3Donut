@@ -14,21 +14,31 @@ Create interactive and engaging dynamic Donut Charts in Angular applications usi
 
 ```sh
 git clone https://github.com/medziedcherif-tn/AngularD3Donut.git
+```
 
 2. Install dependencies:
 
 ```sh
 npm install
+```
+
 
 3. Start the development server:
 
 ```sh
 ng serve
+```
 
 
 
 
 
 
+
+
+
+## License
+
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details.
 
 
